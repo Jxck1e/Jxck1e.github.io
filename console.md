@@ -29,7 +29,7 @@ Li-Ion Battery Pack
 Wheels and Chassis
 
 ## Process of Building The car
-From assembling the chassis to programming the sensors, every step was a challenge. This project helped us learn about:
+From assembling the chassis to programming the sensors, every step was a challenge. This project helped us learn about
 
 Writing code to program the Raspberry Pi
 Testing and debugging hardware and software
