@@ -14,19 +14,19 @@ We're Jackie and Abdulhady. This project started with an idea to design and buil
 
 ## Key Features of Our Robot Car
 Our rc car is packed with features like:
-Obstacle Avoidance
-Line Following
-Facial Expressions (using RGB LEDs)
-Bluetooth Remote Control Compatibility (Still figuring it out)
+- Obstacle Avoidance
+- Line Following
+- Facial Expressions (using RGB LEDs)
+- Bluetooth Remote Control Compatibility (Still figuring it out)
 
 ## Components Used in The Build
-Raspberry Pi Pico
-Motor Driver Board
-Ultrasonic Sensor
-Servo Motors
-RGB LEDs
-Li-Ion Battery Pack
-Wheels and Chassis
+- Raspberry Pi Pico
+- Motor Driver Board
+- Ultrasonic Sensor
+- Servo Motors
+- RGB LEDs
+- Li-Ion Battery Pack
+- Wheels and Chassis
 
 ## Process of Building The car
 From assembling the chassis to programming the sensors, every step was a challenge. This project helped us learn about
