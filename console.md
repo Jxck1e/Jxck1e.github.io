@@ -20,7 +20,7 @@ Our rc car is packed with features like:
 - Obstacle Avoidance
 - Line Following
 - Facial Expressions (using RGB LEDs)
-- Bluetooth Remote Control Compatibility (Still figuring it out)
+- Bluetooth Remote Control Compatibility (Work In Progress)
 
 ## Components Used in The Build
 - Raspberry Pi Pico
