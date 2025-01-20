@@ -12,6 +12,9 @@ description: Final project (TEJ3MR-1)
 ## Welcome to Our Robot Car Project
 We're Jackie and Abdulhady. This project started with an idea to design and build a rc car that has unique futures and that is different from others. Here's the journey of how we made it happen!
 
+![image](https://github.com/user-attachments/assets/7eb1c25e-ca39-4462-af41-e187cb1c7587)
+
+
 ## Key Features of Our Robot Car
 Our rc car is packed with features like:
 - Obstacle Avoidance
