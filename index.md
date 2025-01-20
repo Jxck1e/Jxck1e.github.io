@@ -17,6 +17,4 @@ description: Grade 11 Computer Engineering Student
 ## About Me
 - Hi, I'm Jackie Nguyen! I'm currently a grade 11 student at Port Credit Secondary School enrolled in the Sci-Tech program.
 
-fasdkfasldfjaslkdjfas
-
 <img src="">
