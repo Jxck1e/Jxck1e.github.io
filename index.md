@@ -24,6 +24,7 @@ For my Final Project in TEJ3MR-1-Computer Engineering Technology, me and my part
 [More info](./console.md)
 
 ## Coding Linux
+This history log outlines the process of setting up and experimenting with Linux tools, customizing configurations, and coding on a Linux system
 
     1  sudo pacman -Syu
     2  clear
