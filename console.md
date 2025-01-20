@@ -36,3 +36,6 @@ Testing and debugging hardware and software
 
 ## See It in Action
 Check out our rc car in action! Whether it's avoiding obstacles, following a line, or showing off its cool expressions, this car never fails to impress.
+
+<p align="center"> 
+img src=">
