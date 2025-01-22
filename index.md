@@ -3,7 +3,7 @@ title: Jackie Nguyen
 description: Grade 11 Computer Engineering Student
 ---
 
-<p align="left">
+<p align="right">
     <a href="https://mail.google.com/mail/u/0/?fs=1&to=760462@pdsb.net&tf=cm">Contact me</a>
 </p>
 
